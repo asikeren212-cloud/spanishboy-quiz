@@ -17,9 +17,9 @@
   let deadline = 0;
 
   const store = {
-    get() { try { return localStorage.getItem(LS_TOKEN); } catch (e) { return null; } },
-    set(t) { try { localStorage.setItem(LS_TOKEN, t); } catch (e) { /* privater Modus */ } },
-    clear() { try { localStorage.removeItem(LS_TOKEN); } catch (e) { /* egal */ } },
+    get() { try { return sessionStorage.getItem(LS_TOKEN); } catch (e) { return null; } },
+    set(t) { try { sessionStorage.setItem(LS_TOKEN, t); } catch (e) { /* privater Modus */ } },
+    clear() { try { sessionStorage.removeItem(LS_TOKEN); } catch (e) { /* egal */ } },
   };
 
   function setView(v) {

@@ -1,52 +1,52 @@
 [
   {
-    "question": "¿Hace cuántos años empezaron a cultivar el maíz en México?",
-    "answers": ["500", "2.000", "9.000", "50.000"],
-    "correct": 2
+    "question": "¿De qué país es la comida de nuestra presentación?",
+    "answers": ["México", "Italia", "China", "Alemania"],
+    "correct": 0
   },
   {
-    "question": "¿Cómo era el chocolate de los aztecas y los mayas?",
-    "answers": ["dulce", "amargo", "frío con leche", "salado con queso"],
-    "correct": 1
-  },
-  {
-    "question": "¿En qué año llegaron los españoles a México?",
-    "answers": ["1492", "1521", "1821", "1910"],
+    "question": "¿Qué planta cultivan en México desde hace 9.000 años?",
+    "answers": ["la papa", "el maíz", "el arroz", "el trigo"],
     "correct": 1
   },
   {
     "question": "¿Cuáles son los tres ingredientes básicos de la milpa?",
-    "answers": ["maíz, frijol y chile", "arroz, trigo y papa", "tomate, queso y pan", "cerdo, res y cordero"],
+    "answers": ["maíz, frijol y chile", "pizza, pasta y queso", "pan, mantequilla y miel", "arroz, sushi y té"],
     "correct": 0
   },
   {
-    "question": "¿De qué país venían los inmigrantes que trajeron el shawarma a Puebla?",
-    "answers": ["Italia", "Líbano", "Japón", "Francia"],
-    "correct": 1
-  },
-  {
     "question": "¿Qué fruta lleva el taco al pastor?",
-    "answers": ["manzana", "piña", "plátano", "fresa"],
+    "answers": ["la manzana", "la piña", "el plátano", "la fresa"],
     "correct": 1
   },
   {
     "question": "¿Qué ingrediente sorprendente lleva el mole poblano?",
-    "answers": ["chocolate", "helado", "café", "miel"],
-    "correct": 0
+    "answers": ["helado", "ketchup", "chocolate", "leche"],
+    "correct": 2
   },
   {
     "question": "Los chiles en nogada tienen los colores de…",
-    "answers": ["la bandera de España", "la bandera de México", "la bandera de Italia", "las flores de cempasúchil"],
+    "answers": ["la bandera de Alemania", "la bandera de México", "la bandera de Francia", "la bandera de Japón"],
     "correct": 1
   },
   {
-    "question": "¿Cuándo se celebra el Día de Muertos?",
-    "answers": ["el 24 de diciembre", "el 1 y 2 de noviembre", "el 15 y 16 de septiembre", "el 1 de enero"],
+    "question": "¿Qué flor naranja se usa en el Día de Muertos?",
+    "answers": ["la rosa", "el tulipán", "el girasol", "el cempasúchil"],
+    "correct": 3
+  },
+  {
+    "question": "¿Qué se come en Navidad en México?",
+    "answers": ["tamales", "pizza", "sushi", "döner"],
+    "correct": 0
+  },
+  {
+    "question": "¿Con qué se hace el agua de horchata?",
+    "answers": ["tomate y chile", "arroz y canela", "chocolate y queso", "carne y piña"],
     "correct": 1
   },
   {
-    "question": "¿En qué año la UNESCO declaró la cocina mexicana Patrimonio de la Humanidad?",
-    "answers": ["1990", "2001", "2010", "2020"],
+    "question": "¿Quién declaró la cocina mexicana Patrimonio de la Humanidad?",
+    "answers": ["la FIFA", "la NASA", "la UNESCO", "McDonald's"],
     "correct": 2
   }
 ]
